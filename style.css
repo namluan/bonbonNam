@@ -1,0 +1,11 @@
+.card
+{
+    display : inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    justify-content: center;
+    text-align: center;
+}
+

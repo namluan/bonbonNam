@@ -38,7 +38,7 @@
         while($produit = $resultat->fetch(PDO::FETCH_OBJ))
         {
                 ?><div class="card text-center" style="width: 18rem;">
-                <img src="<?=$produit->photo?>" class="card-img-top">
+                <img src="Images/<?=$produit->photo?>" class="card-img-top">
                 <div class="card-body">
                 <h5 class="card-title"><?= $produit->nom?></h5>
                 <p class="card-text"><?= $produit->prix ?></p>

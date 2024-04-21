@@ -1,6 +1,6 @@
 Page d'accueil du site
 
-![](Aspose.Words.af4861e6-59fe-4852-b334-74b0890f0770.001.jpeg)
+![](Images/readmefiles/Aspose.Words.af4861e6-59fe-4852-b334-74b0890f0770.001.jpeg)
 
 Page d’ajout de produit
 
